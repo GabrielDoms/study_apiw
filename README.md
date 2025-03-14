@@ -1,1 +1,1 @@
-# study_apiw
+# study-api
